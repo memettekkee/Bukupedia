@@ -1,0 +1,13 @@
+login
+
+Admin
+Username = operator
+password = operator
+
+anggota
+username = varo
+password = varo
+
+link web bukupedia setelah dihosting
+
+ https://e-bookbukupedia.000webhostapp.com/ 
